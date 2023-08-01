@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMICalculators22021</string>
+    <string name="tv_name2">BMI計算機</string>
+    <string name="tv_name3">年齢</string>
+    <string name="tv_name4">身長</string>
+    <string name="tv_name5">体重</string>
+    <string name="bt_click">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_msg">適切な肥満度を求めるためには、6歳未満の場合はカウプ指数
+    が、６歳から１５歳まではローレル指数が使われます。本アプリはBMIにのみ対応しています。</string>
+    <string name="dialog_btn_ng">確認</string>
+</resources>
